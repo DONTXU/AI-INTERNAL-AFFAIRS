@@ -1,4 +1,5 @@
 # AI-INTERNAL-AFFAIRS
+My "Building AI course" project
 An attempt to create an AI tool to fight against bias in media articles, social network posts, web pages descriptions....
 
 ## Summary
@@ -34,6 +35,6 @@ To make it able to work in any language. I've been reading aboputlanguage-agnost
 
 ## Acknowledgments
 
-University of Helsinki
+“Building AI course project” by University of Helsinki
 Reaktor
 https://somebuddy.com/
