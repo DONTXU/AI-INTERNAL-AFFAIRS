@@ -1,4 +1,4 @@
-# AI-INTERNAL-AFFAIRS
+## AI-INTERNAL-AFFAIRS
 My "Building AI course" project
 An attempt to create an AI tool to fight against bias in media articles, social network posts, web pages descriptions....
 
